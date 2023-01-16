@@ -1,0 +1,2 @@
+C:\Users\anatt\Desktop\Projects\PingP\x64\Debug\Test enviroment.exe
+C:\Users\anatt\Desktop\Projects\PingP\x64\Debug\Test enviroment.pdb

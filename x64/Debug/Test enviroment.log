@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\anatt\Desktop\Projects\PingP\Source.cpp(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\anatt\Desktop\Projects\PingP\Source.cpp(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Test enviroment.vcxproj -> C:\Users\anatt\Desktop\Projects\PingP\x64\Debug\Test enviroment.exe
